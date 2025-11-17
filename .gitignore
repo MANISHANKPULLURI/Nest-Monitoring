@@ -1,0 +1,9 @@
+hornbill/
+AllData/
+AllFrames/
+Results/
+IndividualVideoResults/
+AllFramesEdges/
+AllFramesCropped/
+FinalResults/validation_frames/
+CombinedResults/*.mp4

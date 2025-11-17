@@ -1,0 +1,14 @@
+======================================================================
+BIRD NEST MONITORING - ECOLOGICAL SUMMARY
+======================================================================
+
+Total nests analyzed: 23
+Total frames analyzed: 17,724
+Overall occupancy rate: 23.22%
+
+Average brightness (all frames): 92.45
+Average brightness when bird present: 98.41
+Average brightness when bird absent: 90.65
+
+Most active nest: 094209-00040-M-0002
+Highest occupancy rate: 100.00%
